@@ -15,10 +15,10 @@
     "react-scripts": "3.4.3",
     "simple-slider": "^1.0.1"
   },
-  
+
   "scripts": {
-    "start":"node src/index.js",
-    "build":"webpack"//this command and will automatically run on deployment
+    "start": "node src/index.js",
+    "build": "webpack" 
   },
    "heroku-run-build-script": true,
  
